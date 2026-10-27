@@ -1,0 +1,4 @@
+interface:
+  display_name: "Building to 3D"
+  short_description: "Research and rebuild detailed building exteriors"
+  default_prompt: "Use $building-to-3d to research and reconstruct a building in Blender, with reviewed evidence and an offline 3D report."

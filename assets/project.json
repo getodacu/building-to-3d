@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "building": {"name": "", "location": "", "historical_state": "present day"},
+  "summary": "",
+  "iterations": 2,
+  "research": {"max_rounds": 3, "rounds": [], "coverage": [], "verdict": "pending", "rationale": "", "gaps": [], "assessment_artifact_id": ""},
+  "plan_artifact_id": "",
+  "sections": [],
+  "sources": [],
+  "textures": [],
+  "reviews": [],
+  "artifacts": [],
+  "deliverables": {"blend_id": "", "glb_id": ""},
+  "limitations": []
+}
